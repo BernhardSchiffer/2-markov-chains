@@ -23,3 +23,8 @@ import nltk
 # 3. Use the log-ratio method to classify the tweets. Trump should be easy to
 #    spot; but what about Biden vs. Trump?
 # 3.1 Analyze: At what context length (n) does the system perform best?
+
+
+# 4. Compute (and plot) the perplexities for each of the test tweets and 
+#    models. Is picking the Model with minimum perplexity a better classifier
+#    than in 3.?
